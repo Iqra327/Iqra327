@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iqra Rasheed
-- 👀 I’m interested in Front-end-developement.
+- 👀 I’m interested in Front-end-developement and Wordpress.
 - 🌱 I’m currently learning javascript and wordpress.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
