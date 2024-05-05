@@ -28,8 +28,10 @@
 </div>
 
 # Github Stats
-<div>
-![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iqra327&theme=dark&show_icons=true)
+<div align="center">
+ <p>
+  ![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iqra327&theme=dark&show_icons=true)
+ </p>
 </div>
 
 <!---
