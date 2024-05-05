@@ -10,13 +10,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s" width="100px" height="100px" />
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="100px" height="100px" />
     </td>
     <td>
-      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0LdS4L15imsYMAFYhs2UVQuSSzhJC_VMysXfTaVDmQ&s" width ="100px" height="100px" />
+      <img src ="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width ="100px" height="100px" />
     </td>
    <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width ="100px" height="100px" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width ="100px" height="100px" />
    </td>
    <td>
     <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" width ="100px" height="100px" />
