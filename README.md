@@ -33,10 +33,19 @@
   <a href="https://www.linkedin.com/in/iqra-rasheed-84723a255/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wb7G67EcR44qT3KQLlLzI1Fna_L2lPXfTI1sx8_z2w&s" width="100px" height="100px" align="center"/><br>LinkedIn Profile</a>
 </div>
 
-# Github Stats
-<div align="center">
-  ![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?Iqra327=anuraghazra&theme=dark&show_icons=true)
-</div>
+## Github Stats📈:
+<p align="center">
+    <a href="https://github.com/Iqra327">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iqra327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iqra327&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+ <p align="center">
+   <a href="https://github.com/arhamansari11"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra327&theme=algolia&hide_border=true" /> 
+   </a>  
+ </p 
 
 <!---
 - 😄 Pronouns: ...
