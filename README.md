@@ -1,5 +1,5 @@
-- 👋 # Hi, I’m Iqra Rasheed
-
+ # Hi, I’m Iqra Rasheed
+## About Me
 - 👀 I’m interested in Front-end-developement and Wordpress.
 - 🌱 I’m currently learning javascript and wordpress.
 - 💞️ I’m looking to collaborate on ...
@@ -13,11 +13,16 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s" width="100px" height="100px" />
     </td>
     <td>
-      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0LdS4L15imsYMAFYhs2UVQuSSzhJC_VMysXfTaVDmQ&s " />
+      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0LdS4L15imsYMAFYhs2UVQuSSzhJC_VMysXfTaVDmQ&s" width ="100px" height="100px" />
     </td>
   </tr>
 </table>
 
+# Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iqra-rasheed-84723a255/">LinkedIn Profile</a>
+</div>
 
 
 
