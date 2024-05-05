@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width ="100px" height="100px" />
    </td>
    <td>
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://www.vectorlogo.zone/logos/canva/canva-ar21.svg)" width ="100px" height="100px" />
+    <img src="(https://www.vectorlogo.zone/logos/canva/canva-ar21.svg)" width ="100px" height="100px" />
    </td>
   </tr>
 </table>
