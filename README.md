@@ -21,7 +21,7 @@
 # Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iqra-rasheed-84723a255/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/iqra-rasheed-84723a255/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wb7G67EcR44qT3KQLlLzI1Fna_L2lPXfTI1sx8_z2w&s" width="100px" height="100px" />LinkedIn Profile</a>
 </div>
 
 
