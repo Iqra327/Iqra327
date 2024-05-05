@@ -15,6 +15,9 @@
     <td>
       <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0LdS4L15imsYMAFYhs2UVQuSSzhJC_VMysXfTaVDmQ&s" width ="100px" height="100px" />
     </td>
+   <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width ="100px" height="100px" />
+   </td>
   </tr>
 </table>
 
