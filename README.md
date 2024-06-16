@@ -1,8 +1,7 @@
  # Hi, I’m Iqra Rasheed
 ## About Me
-- 👀 I’m interested in Front-end-developement and Wordpress.
-- 🌱 I’m currently learning javascript and wordpress.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-end-developement.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me ...<a href="iqrarasheed219@gmail.com">iqrarasheed219@gmail.com</a>
 
 # Skill Sets:
