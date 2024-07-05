@@ -41,7 +41,7 @@
 </p>
 
  <p align="center">
-   <a href="https://github.com/arhamansari11"> 
+   <a href="https://github.com/Iqra327"> 
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra327&theme=algolia&hide_border=true" /> 
    </a>  
  </p 
