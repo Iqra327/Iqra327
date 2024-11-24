@@ -16,7 +16,7 @@
 ---
 
 ## 🌱 About Me
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Mern Stack**
 - 💬 Ask me about **Frontend and Software Engineering**
 - 📫 Reach me at **iqrarasheed219@gmail.com**
 - ⚡ Fun fact: **I am a silent motivational speaker**
