@@ -1,6 +1,6 @@
 <!-- Stylish header with emoji and alignment -->
 <h1 align="center" style="color:#4CAF50;">Hi 👋, I'm Iqra Rasheed</h1>
-<h3 align="center" style="color:#4CAF50;">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center" style="color:#4CAF50;">A Passionate Mern Stack Developer from Pakistan</h3>
 
 <!-- Profile views and GitHub trophies -->
 <p align="center"> 
